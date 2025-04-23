@@ -1,0 +1,53 @@
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.link{
+display: block;
+padding-bottom: 5px;
+text-decoration: none;
+color: black;
+
+
+}
+
+.sidebar{
+  display: inline-block;
+  height: 600px;
+  width: 230px;
+  background-color: #f4f4f4;
+  padding-left: 10px;
+
+  
+}
+
+.menu{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding-bottom: 8px;
+ 
+}
+
+.content{
+  
+  display: inline-block;
+  margin-left: 10px;
+  padding-top: 100px;
+  position: absolute;
+  top: -90px;
+ 
+}
+.ads{
+ 
+  display: inline-block;
+  margin-left: 550px;
+  position: absolute;
+ 
+
+} 
+
+img{ 
+  width:200px;
+  margin-bottom: 100px;
+ 
+}
