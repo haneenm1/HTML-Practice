@@ -5,7 +5,7 @@ This repository contains a collection of small projects and exercises I complete
 ## 📚 Course Info
 
 - **Course Name on youtube:** [SuperSimpleDev:HTML & CSS Full Course - Beginner to Pro]
-- **Link:** [](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=10s)]
+- **Link:** (https://www.youtube.com/watch?v=G3e-cpL7ofc&t=10s)
 - **Topics Covered:**
   - Basic HTML structure
   - Headings and paragraphs
